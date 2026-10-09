@@ -1,0 +1,5 @@
+{
+  "name": "padel-shuffle",
+  "private": true,
+  "scripts": { "start": "npx serve ." }
+}
